@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": " BalkanSMP-qJF8.aternos.me:49609",
+    "port": 49609,
     "version": "",
     "try-creative": false
   },
