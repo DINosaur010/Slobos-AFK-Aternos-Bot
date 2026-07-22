@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " BalkanSMP-qJF8.aternos.me:49609",
+    "ip": " BalkanSMP-qJF8.aternos.me",
     "port": 49609,
     "version": "",
     "try-creative": false
